@@ -1,3 +1,5 @@
+#Using the if and else statement
+
 name=input("name")
 age=int(input("Age"));
 
